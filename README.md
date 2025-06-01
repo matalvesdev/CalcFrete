@@ -1,8 +1,8 @@
-# FreteFlex
+# CalcFrete
 
 ## Sistema de Cálculo de Frete
 
-**FreteFlex** é um sistema de cálculo de frete que permite aos usuários calcular o custo de envio de pacotes utilizando diferentes estratégias de cálculo de frete. O sistema oferece duas principais opções de frete: **Standard (Normal)** e **Express (Expresso)**, cada uma delas com sua própria fórmula baseada no peso e na distância do envio.
+**CalcFrete** é um sistema de cálculo de frete que permite aos usuários calcular o custo de envio de pacotes utilizando diferentes estratégias de cálculo de frete. O sistema oferece duas principais opções de frete: **Standard (Normal)** e **Express (Expresso)**, cada uma delas com sua própria fórmula baseada no peso e na distância do envio.
 
 ---
 
